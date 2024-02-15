@@ -1,0 +1,4 @@
+/Users/swifty/Chapter04/obj/Debug/net8.0/Chapter04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/Chapter04/obj/Debug/net8.0/Chapter04.AssemblyInfoInputs.cache
+/Users/swifty/Chapter04/obj/Debug/net8.0/Chapter04.AssemblyInfo.cs
+/Users/swifty/Chapter04/obj/Debug/net8.0/Chapter04.csproj.CoreCompileInputs.cache

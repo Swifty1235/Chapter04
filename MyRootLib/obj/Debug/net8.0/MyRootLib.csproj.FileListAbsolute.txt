@@ -1,0 +1,17 @@
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/MyRootLib.deps.json
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/MyRootLib.dll
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/MyRootLib.pdb
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.AssemblyInfoInputs.cache
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.AssemblyInfo.cs
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.csproj.CoreCompileInputs.cache
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.dll
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/refint/MyRootLib.dll
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.pdb
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/ref/MyRootLib.dll
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/swifty/Chapter04/MyRootLib/bin/Debug/net8.0/MyRootLib.runtimeconfig.json
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.csproj.AssemblyReference.cache
+/Users/swifty/Chapter04/MyRootLib/obj/Debug/net8.0/MyRootLib.genruntimeconfig.cache

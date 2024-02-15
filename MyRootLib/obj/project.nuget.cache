@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oo/R2+toz1ux2wA3NjUd47a2tB1sSOapGJMc+kb7VsuENYSViegFKmmWTN1QgPXFkbx4eMl2kyBrrNKSob8qAg==",
+  "success": true,
+  "projectFilePath": "/Users/swifty/Chapter04/MyRootLib/MyRootLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/swifty/.nuget/packages/xunit/2.6.6/xunit.2.6.6.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.analyzers/1.10.0/xunit.analyzers.1.10.0.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.assert/2.6.6/xunit.assert.2.6.6.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.core/2.6.6/xunit.core.2.6.6.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.extensibility.core/2.6.6/xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.extensibility.execution/2.6.6/xunit.extensibility.execution.2.6.6.nupkg.sha512",
+    "/Users/swifty/.nuget/packages/xunit.runner.visualstudio/2.5.6/xunit.runner.visualstudio.2.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}
